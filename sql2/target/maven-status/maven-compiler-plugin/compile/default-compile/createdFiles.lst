@@ -1,0 +1,5 @@
+com\kgisl\sql2\Sql2Application.class
+com\kgisl\sql2\service\EmployeeService.class
+com\kgisl\sql2\repository\EmployeeRepository.class
+com\kgisl\sql2\controller\EmployeeController.class
+com\kgisl\sql2\Model\Employee.class
